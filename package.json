@@ -1,0 +1,21 @@
+{
+  "name": "package-installation-task",
+  "version": "1.0.0",
+  "description": "validator-package-installation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Homework-8"
+  },
+  "keywords": [
+    "validator"
+  ],
+  "author": "Vazha Burduli",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.9.0"
+  }
+}
